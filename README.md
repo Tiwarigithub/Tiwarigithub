@@ -13,14 +13,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,m" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" />
   </a>
 </p>
 
 ## Database 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://mongoDB,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
