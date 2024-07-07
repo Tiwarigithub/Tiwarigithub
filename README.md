@@ -1,16 +1,37 @@
-## Hi there 👋
+[![Linkedin: Anuj Tiwari](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)](https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)
+[![Twitter: ](https://img.shields.io/twitter/follow/Anuj Tiwari_?style=social)](_https://x.com/AnujTiwari22061)
 
-<!--
-**Tiwarigithub/Tiwarigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey, I'm Anuj Tiwari
+   - A student.
+   - Currently learning React.
+   - Interested in Frontend + Backend web dev.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👨‍💻
+
+## Development  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,mysql" />
+  </a>
+</p>
+
+
+## Programming 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java" />
+  </a>
+</p>
+
+
+## Profile Stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true)](https://github.com/TahaHameed23/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/TahaHameed23)
+
+
+### Contact me:
+   - tahahameed29@gmail.com
