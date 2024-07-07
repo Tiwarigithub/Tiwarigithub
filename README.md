@@ -1,4 +1,4 @@
-[![Linkedin: Anuj Tiwari](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)](https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)
+[![Linkedin: Anuj Tiwari](https://img.shields.io/badge/-Anuj%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)](https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)
 [![Twitter: ](https://img.shields.io/twitter/follow/Anuj_Tiwari?style=social)](https://x.com/AnujTiwari22061)
 
 ## 👋 Hey, I'm Anuj Tiwari
