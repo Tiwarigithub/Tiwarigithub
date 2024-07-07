@@ -35,9 +35,10 @@
 
 ## Profile Stats 📈
 
-[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj_Tiwari&show_icons=true)](https://github.com/Tiwarigithub/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true)](https://github.com/TahaHameed23/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj_Tiwari&layout=compact)](https://github.com/Tiwarigithub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/TahaHameed23)
+
 
 
 ### Contact me:
