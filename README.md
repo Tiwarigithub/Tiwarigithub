@@ -1,5 +1,5 @@
 [![Linkedin: Anuj Tiwari](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)](https://www.linkedin.com/in/anuj-tiwari%F0%9F%87%AE%F0%9F%87%B3-a9a086222/)
-[![Twitter: ](AnujTiwari)](_https://x.com/AnujTiwari22061)
+[![Twitter: ](https://img.shields.io/twitter/follow/Anuj_Tiwari_?style=social)](https://x.com/AnujTiwari22061)
 
 ## 👋 Hey, I'm Anuj Tiwari
    - A student.
