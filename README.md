@@ -28,7 +28,7 @@
 ## Programming 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=R,c,python,java" />
+    <img src="https://skillicons.dev/icons?i=r,c,python,java" />
   </a>
 </p>
 
