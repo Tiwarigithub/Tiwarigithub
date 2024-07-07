@@ -28,17 +28,17 @@
 ## Programming 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java" />
+    <img src="https://skillicons.dev/icons?i=R,c,python,java" />
   </a>
 </p>
 
 
 ## Profile Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true)](https://github.com/TahaHameed23/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaHameed23&show_icons=true)](https://github.com/Tiwarigithub/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/TahaHameed23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHameed23&layout=compact)](https://github.com/Tiwarigithub)
 
 
 ### Contact me:
-   - tahahameed29@gmail.com
+   - at584324@gmail.com
